@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body footer {
+	padding-top: 0px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	color: #FFFFFF;
+}
+body {
+	background-color: #21211F;
+}
+First Slide {
+	text-align: center;
+	height: auto;
+	font-size: large;
+}
+jumbotron {
+	background-color: #E9ECEF;
+	background-position: 0% 0%;
+	color: #FFFFFF;
+}
